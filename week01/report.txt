@@ -1,0 +1,2 @@
+Week01 belajar menggunakan git, cli, dan scripting
+
