@@ -1,0 +1,2 @@
+#riccafitriani
+Task Week0 adalah membuat akun google dan akun github serta mencoba login ke badak server
