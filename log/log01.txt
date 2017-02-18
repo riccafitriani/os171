@@ -10,4 +10,4 @@ w01-170216-13-LR-About: Scripting, From: Lecturer
 w01-170216-13-LR-Watching demo from lecturer
 w01-170216-14-LR-About: sed, awk, regex, From: Lecturer
 w01-170216-14-LR-About: sed, awk, regex, From: Lecturer
-w01-170217-19-LR-Review about: scripting, From: task week01, Arsip BAHAN_AJAR_LAMA
+w01-170217-20-LR-Review about: scripting, From: task week01, Arsip BAHAN_AJAR_LAMA
