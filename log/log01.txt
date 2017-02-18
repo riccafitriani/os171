@@ -1,0 +1,13 @@
+w01-170213-19-LR-About: Free Software and Open Source, From: https://www.gnu.org/philosophy/free-sw.html and https://www.gnu.org/philosophy/open-source-misses-the-point.html
+w01-170213-19-LR-About: HKI, From: Arsip BAHAN_AJAR_LAMA
+w01-170214-11-PS-About: CLI and Scripting
+w01-170214-11-DS-Discuss CLI and Scripting
+w01-170214-13-LR-About: Free Software and Open Source, From: Lecturer
+w01-170214-13-LR-About: IPR (Copyright, Copyleft, Trademark, Patent), From:Lecturer
+w01-170214-14-LR-About: Introduction to Scripting, From: Lecturer
+w01-170214-14-LR-Watching demo from lecturer
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-13-LR-Watching demo from lecturer
+w01-170216-14-LR-About: sed, awk, regex, From: Lecturer
+w01-170216-14-LR-About: sed, awk, regex, From: Lecturer
+w01-170217-19-LR-Review about: scripting, From: task week01, Arsip BAHAN_AJAR_LAMA
