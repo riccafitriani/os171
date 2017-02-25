@@ -1,0 +1,13 @@
+w02-170220-19-LR-About: Principle of Least Privilege, Security Problem, gnupg, From: ARSIP OLD 01
+w02-170221-10-PS-About: Copy files to kawung server
+w02-170221-12-PS-About: Intro to C
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Security Problem, From: Lecturer
+w02-170221-14-LR-Watching demo from Lecturer
+w02-170223-11-PS-About: Exercise C, Encryption, GnuPG, Decryption
+w02-170223-11-DS-Discussion about encrypt, decrypt, privacy matters, and C
+w02-170223-13-LR-About: Intro to C, From: Lecturer
+w02-170223-13-LR-Watching demo from lecturer
+w02-170223-14-LR-About: Intro to C, From: Lecturer
+w02-170223-14-LR-Watching demo from lecturer
