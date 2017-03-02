@@ -1,0 +1,12 @@
+w03-170228-13-LR-About: Linux Booting, From: Lecturer
+w03-170228-13-LR-About: Boot loader, BIOS, UEFI, From: Lecturer
+w03-170228-14-LR-About: Init, UpStart, sysmtemd, From: Lecturer
+w03-170228-14-PS-About: 
+w03-170302-13-LR-About: Keistimewaan systemd, review linux booting, sudo file, From:Lecturer
+w03-170302-13-LR-Watching demo from Lecturer 
+w03-170302-14-LR-About: pointer, address memory, From: Lecturer
+w03-170302-14-LR-Watching demo from Lecturer
+w03-170302-20-PS-About: Linux Booting
+w03-170302-20-PS-About: Linux Booting dan Scripting
+w03-170302-21-PS-About: Scripting
+w03-170302-21-PS-About: Encryption dan digital signature
