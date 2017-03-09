@@ -1,0 +1,16 @@
+w04-170307-13-LR-About: Addressing, Address Mapping, From: Lecturer
+w04-170307-13-LR-About: Global and Local Variable, Pointer, From: Lecturer
+w04-170307-14-LR-Watching demo about global and local variable, From: Lecturer
+w04-170307-14-LR-Watching demo about pointer, From: Lecturer
+w04-170308-20-LR-About: Pointer Address, From: Scele, Main Demo Archive
+w04-170309-10-PS-About: Global and Local Variable
+w04-170309-10-PS-About: Global and Local Variable
+w04-170309-11-PS-About: Pointer
+w04-170309-13-LR-About: I/O Programming, From: Lecturer
+w04-170309-13-LR-Watching demo about input programming, From: Lecturer 
+w04-170309-14-LR-About: File Descriptor, Open and Close I/O Programming, Flags and Modes, From: Lecturer
+w04-170309-14-LR-Watching demo about file descriptor dan open-close I/O programming, From: Lecturer
+w04-170309-20-PS-About: I/O Process
+w04-170309-20-PS-About: File Descriptor, Open-close I/O Process
+w04-170309-21-PS-About: Flags and Modes, Write program
+w04-170309-21-PS-About: Write function and Write program
