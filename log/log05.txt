@@ -1,0 +1,11 @@
+w05-170314-13-LR-About: Memory Allocation From: Lecturer
+w05-170314-13-LR-About: Fragmentation, From: Lecturer
+w05-170314-14-LR-Watching demo about memory allocation, From: Lecturer
+w05-170314-14-LR-Watching demo about top command, From: Lecturer
+w05-170317-20-LR-About: malloc() dan system(), From: https://www.programiz.com/c-programming/c-dynamic-memory-allocation and https://linux.die.net/man/3/system 
+w05-170317-20-LR-About: top command(), From: http://alvinalexander.com/linux/unix-linux-top-command-cpu-memory
+w05-170317-21-PS-About: top command
+w05-170318-08-PS-About: top command
+w05-170318-08-PS-About: memory allocation
+w05-170318-09-PS-About: memory allocation
+
