@@ -1,5 +1,6 @@
 w06-170411-13-DS-Discussion about Fork, From : http://rms46.vlsm.org/2/201.pdf
 w06-170414-18-LR-About: Fork and its function, From: google (example: http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+w06-170414-18-LR-About: PPID, PID, From: google (example : https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)
 w06-170414-20-PS-About: wait, sleep, getpid, getppid
 w06-170414-21-PS-About: Program Fork
 w06-170414-21-PS-About: Bagaimana cara kerja Fork
