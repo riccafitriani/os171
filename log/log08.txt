@@ -1,0 +1,13 @@
+w08-170420-13-LR-About: Socket, from: Lecturer
+w08-170420-13-LR-About: Socket and its function, from: Lecturer
+w08-170420-14-LR-Watching demo from Lecturer
+w08-170420-14-LR-Watching demo from Lecturer
+w08-170425-13-LR-About: Schedulling, from: Lecturer
+w08-170425-13-LR-About: Schedulling, from: Lecturer
+w08-170425-14-LR-Watching demo from Lecturer
+w08-170425-14-LR-Watching demo from Lecturer
+w08-170428-12-PS-About: Socket, client, server lab week08
+w08-170428-12-PS-About: Socket, client, server lab week08
+w08-170428-13-PS-About: Socket, client, server lab week08
+w08-170429-17-LR-About: Review socket, client, server
+w08-170429-17-LR-About: Review socket, client, server
