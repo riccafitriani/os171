@@ -1,0 +1,8 @@
+w10-170504-13-DS-About: Virtualization
+w10-170504-13-LR-About: Virtualization, from: Lecturer
+w10-170504-14-DS-About: Cloud Computing (IaaS, SaaS, PaaS)
+w10-170504-14-LR-About: Cloud Computing (IaaS, SaaS, PaaS), from: Lecturer
+w10-170512-00-LR-About: Encryption and Decryption, from: https:https://youtu.be/BEb_AnPWPwY
+w10-170512-00-PS-Lab Session Week09
+w10-170512-01-PS-Lab Session Week09
+w10-170512-01-PS-Lab Session Week09
